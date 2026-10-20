@@ -29,4 +29,8 @@ Here is how code moves through a standard development pipeline:
 
 ---
 
+## 3-Anatomy of a githubworkflow
+
+
+<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/1a2c01d9-5f7c-4d42-b506-8dda1805cd33" />
 
