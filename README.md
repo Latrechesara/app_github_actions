@@ -30,4 +30,3 @@ Here is how code moves through a standard development pipeline:
 ---
 
 
-```
